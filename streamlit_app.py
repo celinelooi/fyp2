@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import sklearn as sk
+import sklearn 
 import numpy as np
 from joblib import load
 from datetime import datetime
