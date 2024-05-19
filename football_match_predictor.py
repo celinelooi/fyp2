@@ -4,7 +4,7 @@ from joblib import load
 from datetime import datetime
 
 # Load the trained model
-model = load('C:/Users/thien/Downloads/FYP/trained_model.joblib')
+model = load('trained_model.joblib')
 
 # Title and description
 st.title('Football Match Predictor')
